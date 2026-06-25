@@ -81,7 +81,3 @@ Success response is returned to frontend
 <img width="1639" height="832" alt="awss" src="https://github.com/user-attachments/assets/6d498516-b161-4eea-9848-4b2457994805" />
 
 
-👨‍💻 Author
-
-Rohan Prasad
-Cloud Computing | AWS | DevOps | Serverless Enthusiast

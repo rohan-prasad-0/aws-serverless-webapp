@@ -56,22 +56,27 @@ Success response is returned to frontend
 
 
 📸 Screenshots
+
 🖥️ Frontend UI
+
 
 <img width="1866" height="953" alt="awsss" src="https://github.com/user-attachments/assets/7da08ece-fc8d-488b-a331-3a8e49fa8d5d" />
 
 
 🔗 API Gateway Configuration
 
+
 <img width="1903" height="868" alt="awsssss" src="https://github.com/user-attachments/assets/66ad470f-37c6-4c40-979e-42a9e416afcb" />
 
 
 ⚙️ Lambda Function
 
+
 <img width="1590" height="877" alt="awssss" src="https://github.com/user-attachments/assets/feec84da-943f-48b4-9f65-2e0854e574d4" />
 
 
 💾 DynamoDB Table
+
 
 <img width="1639" height="832" alt="awss" src="https://github.com/user-attachments/assets/6d498516-b161-4eea-9848-4b2457994805" />
 

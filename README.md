@@ -55,7 +55,6 @@ Data is stored in DynamoDB
 Success response is returned to frontend
 
 
-📸 Screenshots
 
 🖥️ Frontend UI
 
